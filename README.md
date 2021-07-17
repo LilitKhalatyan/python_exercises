@@ -1,2 +1,2 @@
-# python_exercises
-some exercises from ISTC
+# Homework
+Python class - homework
